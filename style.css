@@ -123,7 +123,7 @@ background: rgba(0,0,0, .5);
   position: relative;
   z-index: 1;
   display: grid;
-  align-items: end;
+  align-items: center;
   grid-gap: 50px;
   padding: 50px 50px 50px 0;
   animation: fadeIn .3s forwards;
